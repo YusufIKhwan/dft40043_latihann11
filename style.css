@@ -1,0 +1,31 @@
+h1 {
+    color: aquamarine;
+}
+
+h2{
+    background-color: indianred;
+    color: ivory;
+}
+
+.hijau {
+    color:greenyellow;
+}
+
+.kanan {
+
+}
+
+#tengah {
+    text-align: center;
+}
+
+.penuh  {
+    width: 100px;
+    padding: 10px;
+    border: 3px indianred;
+    margin: 5px;
+}
+
+.tinggi {
+    height: 80px;
+}
